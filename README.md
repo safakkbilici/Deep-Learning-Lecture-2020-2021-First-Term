@@ -14,11 +14,11 @@ Github does not render LaTeX well. So clone the repo and use notebooks in localh
 - [02-Models-Performance](https://nbviewer.jupyter.org/github/safakkbilici/Deep-Learning-Lecture-2020-2021-First-Term/blob/master/lecture%20notes/02-Models-Performance.ipynb?flush_cache=true)
 
 ## Syllabus
-<img src="/syllabus/img/1.jpg" alt="drawing" width="500"/>
+<img src="/syllabus/img/1.jpg" alt="drawing" width="700"/>
 
-<img src="/syllabus/img/2.jpg" alt="drawing" width="500"/>
+<img src="/syllabus/img/2.jpg" alt="drawing" width="700"/>
 
-<img src="/syllabus/img/3.jpg" alt="drawing" width="500"/>
+<img src="/syllabus/img/3.jpg" alt="drawing" width="700"/>
 
 ## Materials
 ### Selected Materials To Study Before Lecture
