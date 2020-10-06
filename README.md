@@ -21,7 +21,7 @@ Github does not render LaTeX well. So clone the repo and use notebooks in localh
 <img src="/syllabus/img/3.jpg" alt="drawing" width="700"/>
 
 ## Materials
-### Selected Materials To Study Before Lecture
+### Selected Materials To Study Before The Lecture
 - [Linear Algebra Review](http://cs229.stanford.edu/section/cs229-linalg.pdf)
 - [Probability Review](http://cs229.stanford.edu/section/cs229-prob.pdf)
 - [Introductory Statistics](https://saylordotorg.github.io/text_introductory-statistics/)
