@@ -6,12 +6,20 @@ Repository of 2020-2021 first term Introduction to Deep Learning lecture. Contai
 - Şafak Bilici
 - Oğuzhan Ercan
 
-### Notebook Links
+## Notebook Links
 Github does not render LaTeX well. So clone the repo and use notebooks in localhost, or use following links. (Even though following links, wait 10 or 15 seconds to LaTeX rendering).
 
 - [01-Machine-Learning](https://nbviewer.jupyter.org/github/safakkbilici/Deep-Learning-Lecture-2020-2021-First-Term/blob/master/lecture%20notes/01-Machine-Learning.ipynb?flush_cache=true)
 
 - [02-Models-Performance](https://nbviewer.jupyter.org/github/safakkbilici/Deep-Learning-Lecture-2020-2021-First-Term/blob/master/lecture%20notes/02-Models-Performance.ipynb?flush_cache=true)
+
+## Syllabus
+<img src="/syllabus/img/1.jpg" alt="drawing" width="500"/>
+
+<img src="/syllabus/img/2.jpg" alt="drawing" width="500"/>
+
+<img src="/syllabus/img/3.jpg" alt="drawing" width="500"/>
+
 ## Materials
 ### Selected Materials To Study Before Lecture
 - [Linear Algebra Review](http://cs229.stanford.edu/section/cs229-linalg.pdf)
