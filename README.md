@@ -6,14 +6,14 @@ Repository of 2020-2021 first term Introduction to Deep Learning lecture. Contai
 - Şafak Bilici
 - Oğuzhan Ercan
 
-## Notebook Links
+### Notebook Links
 Github does not render LaTeX well. So clone the repo and use notebooks in localhost, or use following links. (Even though following links, wait 10 or 15 seconds to LaTeX rendering).
 
 - [01-Machine-Learning](https://nbviewer.jupyter.org/github/safakkbilici/Deep-Learning-Lecture-2020-2021-First-Term/blob/master/lecture%20notes/01-Machine-Learning.ipynb?flush_cache=true)
 
 - [02-Models-Performance](https://nbviewer.jupyter.org/github/safakkbilici/Deep-Learning-Lecture-2020-2021-First-Term/blob/master/lecture%20notes/02-Models-Performance.ipynb?flush_cache=true)
-
-## Selected Materials To Study Before Lecture
+## Materials
+### Selected Materials To Study Before Lecture
 - [Linear Algebra Review](http://cs229.stanford.edu/section/cs229-linalg.pdf)
 - [Probability Review](http://cs229.stanford.edu/section/cs229-prob.pdf)
 - [Introductory Statistics](https://saylordotorg.github.io/text_introductory-statistics/)
@@ -23,7 +23,7 @@ Github does not render LaTeX well. So clone the repo and use notebooks in localh
 - [Deep Learning Pt. 3](https://towardsdatascience.com/the-maths-behind-back-propagation-cf6714736abf)
 - [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
 
-## Good Materials To Learn Machine Learning/Deep Learning
+### Good Materials To Learn Machine Learning/Deep Learning
 - Introduction to Statistical Learning With Applications In R (Textbook)
 - Deep Learning by Goodfellow & Bengio & Courville (Textbook)
 - [Ilker Bilbir's Lectures On Statistical Learning (Turkish) (Video Series)](https://www.youtube.com/playlist?list=PLZcbvMjrj9DVn7f1MWvqdJlTVdW2eIrFh)
