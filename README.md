@@ -13,6 +13,8 @@ Github does not render LaTeX well. So clone the repo and use notebooks in localh
 
 - [02-Models-Performance](https://nbviewer.jupyter.org/github/safakkbilici/Deep-Learning-Lecture-2020-2021-First-Term/blob/master/lecture%20notes/02-Models-Performance.ipynb?flush_cache=true)
 
+- [03-Deep-Learning](https://nbviewer.jupyter.org/github/safakkbilici/Deep-Learning-Lecture-2020-2021-First-Term/blob/master/lecture%20notes/03-Deep-Learning.ipynb?flush_cache=true)
+
 ## Syllabus
 <img src="/syllabus/img/1.jpg" alt="drawing" width="700"/>
 
