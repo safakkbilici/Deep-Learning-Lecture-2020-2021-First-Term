@@ -43,3 +43,6 @@ Github does not render LaTeX well. So clone the repo and use notebooks in localh
 - [MIT's Lectures On Deep Learning (Video Series)](http://introtodeeplearning.com/)
 - [Intel's AI Course](https://software.intel.com/content/www/us/en/develop/topics/ai/training/courses.html)
 - [CS231n: Convolutional Neural Networks for Visual Recognition (Blog Post)](http://cs231n.stanford.edu/)
+
+### Can I Use This Lecture Notes For Other Purposes?
+Everyone is permitted to copy and distribute verbatim or modified copies of this lecture notes. 
