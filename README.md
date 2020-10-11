@@ -7,7 +7,7 @@ Repository of 2020-2021 first term Introduction to Deep Learning lecture. Contai
 - Oğuzhan Ercan
 
 ## Notebook Links
-Github does not render $\LaTeX$ well. So clone the repo and use notebooks in localhost, or use following links. (Even though following links, wait 10 or 15 seconds to LaTeX rendering).
+Github does not render LaTeX well. So clone the repo and use notebooks in localhost, or use following links. (Even though following links, wait 10 or 15 seconds to LaTeX rendering).
 
 - [01-Machine-Learning](https://nbviewer.jupyter.org/github/safakkbilici/Deep-Learning-Lecture-2020-2021-First-Term/blob/master/lecture%20notes/01-Machine-Learning.ipynb?flush_cache=true)
 
