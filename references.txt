@@ -1,0 +1,7 @@
+- https://github.com/sibirbil/IMO2020
+
+- https://towardsdatascience.com/accuracy-precision-recall-or-f1-331fb37c5cb9
+
+- https://colah.github.io/posts/2015-08-Backprop/
+
+- https://blog.paperspace.com/pytorch-101-understanding-graphs-and-automatic-differentiation/
