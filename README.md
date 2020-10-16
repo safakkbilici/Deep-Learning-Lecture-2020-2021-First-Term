@@ -15,6 +15,8 @@ Github does not render LaTeX well. So clone the repo and use notebooks in localh
 
 - [03-Deep-Learning](https://nbviewer.jupyter.org/github/safakkbilici/Deep-Learning-Lecture-2020-2021-First-Term/blob/master/lecture%20notes/03-Deep-Learning.ipynb?flush_cache=true)
 
+- Other notebooks will be uploaded when they are finished.
+
 ## Syllabus
 <img src="/syllabus/img/1.jpg" alt="drawing" width="700"/>
 
@@ -27,7 +29,8 @@ Github does not render LaTeX well. So clone the repo and use notebooks in localh
 - [Linear Algebra Review](http://cs229.stanford.edu/section/cs229-linalg.pdf)
 - [Probability Review](http://cs229.stanford.edu/section/cs229-prob.pdf)
 - [Introductory Statistics](https://saylordotorg.github.io/text_introductory-statistics/)
-- [The Matrix Calculus You Need For Deep Learning (Necessary)](https://explained.ai/matrix-calculus/index.html)
+- [The Matrix Calculus You Need For Deep Learning (Necessary)](https://explained.ai/matrix-calculus/index.html),
+- [Probability Cheatsheet (Neccesary)](https://stanford.edu/~shervine/teaching/cme-106/cheatsheet-probability)
 - [Deep Learning Pt. 1](https://towardsdatascience.com/introducing-deep-learning-and-neural-networks-deep-learning-for-rookies-1-bd68f9cf5883)
 - [Deep Learning Pt. 2](https://towardsdatascience.com/multi-layer-neural-networks-with-sigmoid-function-deep-learning-for-rookies-2-bf464f09eb7f)
 - [Deep Learning Pt. 3](https://towardsdatascience.com/the-maths-behind-back-propagation-cf6714736abf)
