@@ -15,6 +15,8 @@ Github does not render LaTeX well. So clone the repo and use notebooks in localh
 
 - [03-Deep-Learning](https://nbviewer.jupyter.org/github/safakkbilici/Deep-Learning-Lecture-2020-2021-First-Term/blob/master/lecture%20notes/03-Deep-Learning.ipynb?flush_cache=true)
 
+- [04-Images-And-CNNs](https://nbviewer.jupyter.org/github/safakkbilici/Deep-Learning-Lecture-2020-2021-First-Term/blob/master/lecture%20notes/04-Images-And-CNNs.ipynb?flush_cache=true)
+
 - Other notebooks will be uploaded when they are finished.
 
 ## Syllabus
