@@ -5,3 +5,9 @@
 - https://colah.github.io/posts/2015-08-Backprop/
 
 - https://blog.paperspace.com/pytorch-101-understanding-graphs-and-automatic-differentiation/
+
+- https://sif-dlv.github.io/
+
+- https://fleuret.org/ee559/
+
+- https://github.com/glouppe/info8010-deep-learning
