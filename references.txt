@@ -11,3 +11,5 @@
 - https://fleuret.org/ee559/
 
 - https://github.com/glouppe/info8010-deep-learning
+
+- https://stats.stackexchange.com/questions/49528/batch-gradient-descent-versus-stochastic-gradient-descent
