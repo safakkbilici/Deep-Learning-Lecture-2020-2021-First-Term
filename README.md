@@ -22,11 +22,11 @@ Github does not render LaTeX well. So clone the repo and use notebooks in localh
 - Other notebooks will be uploaded when they are finished.
 
 ## Syllabus
-<img src="/syllabus/img/week1.jpg" alt="drawing" width="700"/>
+<img src="/syllabus/img/1.jpg" alt="drawing" width="700"/>
 
-<img src="/syllabus/img/week2.jpg" alt="drawing" width="700"/>
+<img src="/syllabus/img/2.jpg" alt="drawing" width="700"/>
 
-<img src="/syllabus/img/week3.jpg" alt="drawing" width="700"/>
+<img src="/syllabus/img/3.jpg" alt="drawing" width="700"/>
 
 ## Materials
 ### Selected Materials To Study Before The Lecture
