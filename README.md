@@ -53,3 +53,6 @@ Github does not render LaTeX well. So clone the repo and use notebooks in localh
 
 ### Can I Use This Lecture Notes For Other Purposes?
 Everyone is permitted to copy and distribute verbatim or modified copies of this lecture notes. 
+
+### References
+Paper/textbook references are cited in [references.bib](https://github.com/safakkbilici/Deep-Learning-Lecture-2020-2021-First-Term/blob/master/references.bib) file. Blog posts and others cited in [references.txt](https://github.com/safakkbilici/Deep-Learning-Lecture-2020-2021-First-Term/blob/master/references.txt) file. Please warn, edit me if I missed any reference.
