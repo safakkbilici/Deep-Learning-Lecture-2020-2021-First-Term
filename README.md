@@ -5,6 +5,12 @@ Repository of 2020-2021 first term Introduction to Deep Learning lecture. Contai
 **Intructors:**
 - Şafak Bilici
 - Oğuzhan Ercan
+## Lecture Videos
+Lectures are uploaded to [this youtube playlist](https://www.youtube.com/playlist?list=PL8kGuiVdKeKh31pVMF-ObZxu3C2E5A3Y7). 
+
+- Videos: Turkish
+
+- All Materials: English
 
 ## Notebook Links
 Github does not render LaTeX well. So clone the repo and use notebooks in localhost, or use following links. (Even though following links, wait 10 or 15 seconds to LaTeX rendering).
