@@ -23,9 +23,10 @@ Github does not render LaTeX well. So clone the repo and use notebooks in localh
 
 - [04-Images-And-CNNs](https://nbviewer.jupyter.org/github/safakkbilici/Deep-Learning-Lecture-2020-2021-First-Term/blob/master/lecture%20notes/04-Images-And-CNNs.ipynb?flush_cache=true)
 
-- [05-Texts-And-Sequential-Models](https://nbviewer.jupyter.org/github/safakkbilici/Deep-Learning-Lecture-2020-2021-First-Term/blob/master/lecture%20notes/05-Texts-And-Sequential-Models.ipynb?flush_cache=true)
+- [05-Sequential-Models-And-Natural-Language-Processing](https://nbviewer.jupyter.org/github/safakkbilici/Deep-Learning-Lecture-2020-2021-First-Term/blob/master/lecture%20notes/05-Texts-And-Sequential-Models.ipynb?flush_cache=true)
 
-- Other notebooks will be uploaded when they are finished.
+- [06-Generative Models-And-Other-Topics](https://nbviewer.jupyter.org/github/safakkbilici/Deep-Learning-Lecture-2020-2021-First-Term/blob/master/lecture%20notes/06-Generative-Models-And-Other-Topics.ipynb?flush_cache=true)
+
 
 ## Syllabus
 <img src="/syllabus/img/1.jpg" alt="drawing" width="800"/>
