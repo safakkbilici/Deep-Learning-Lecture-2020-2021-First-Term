@@ -58,6 +58,10 @@ Github does not render LaTeX well. So clone the repo and use notebooks in localh
 - [Intel's AI Course](https://software.intel.com/content/www/us/en/develop/topics/ai/training/courses.html)
 - [CS231n: Convolutional Neural Networks for Visual Recognition (Blog Post)](http://cs231n.stanford.edu/)
 
+### Materails For PyTorch
+- [The Complete Neural Networks Bootcamp: Theory, Applications](https://www.udemy.com/course/the-complete-neural-networks-bootcamp-theory-applications/)
+- [PyTorch Tutorials - Aladdin Persson](https://www.youtube.com/playlist?list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz)
+
 ### Can I Use This Lecture Notes For Other Purposes?
 Everyone is permitted to copy and distribute verbatim or modified copies of this lecture notes. 
 
